@@ -55,6 +55,7 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-10-10 104710](https://github.com/user-attachments/assets/a9d33e5b-cc4e-4e2f-9282-2f1963fe5c9d)

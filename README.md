@@ -56,15 +56,13 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 
 **Logic symbol & Truthtable**
-[image](https://github.com/user-attachments/assets/8c08da6c-8820-466c-9069-d1fac2a5bdf3)
+![Screenshot 2024-10-10 104710](https://github.com/user-attachments/assets/a9d33e5b-cc4e-4e2f-9282-2f1963fe5c9d)
 
 **RTL realization**
+![Screenshot 2024-10-10 105108](https://github.com/user-attachments/assets/6516dd60-f3cf-41ec-ae96-1c6987a2c7ff)
 
 **Output:**
-
-**RTL**
-
-**Timing Diagram**
+![Screenshot 2024-10-10 105254](https://github.com/user-attachments/assets/cbeca8a0-2363-4199-a009-74312dff1f13)
 
 **Result:**
 
